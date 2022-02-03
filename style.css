@@ -416,6 +416,11 @@ body {
     margin-top: 96px;
 }
 
+.welcome .head3 {
+    text-align: left;
+    margin-bottom: 32px;
+}
+
 @media (max-width: 1024px) {
     .container {
         padding-left: 32px;
